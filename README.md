@@ -1,2 +1,2 @@
 # mongoose_project
-shows 2 issues with mongodb/mongoose
+shows 2 open issues with mongodb 3.2
